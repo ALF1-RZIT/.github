@@ -5,3 +5,4 @@ Strony warte odwiedzenia:
 - https://developer.nvidia.com/blog/advancing-physical-ai-with-nvidia-cosmos-world-foundation-model-platform/
 - https://developer.nvidia.com/isaac/lab
 - https://www.nvidia.com/en-us/geforce/news/open-claw-rtx-gpu-dgx-spark-guide/
+- https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/
