@@ -12,6 +12,7 @@ Strony warte odwiedzenia:
 
 Kursy:
 - [AI for All: From Basics to GenAI Practice](https://academy.nvidia.com/en/course/ai-for-all-from-basics-to-genai-practice/?cm=81220)
+- [nvidia robotics](https://www.nvidia.com/en-us/learn/learning-path/robotics/)
 - https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-OV-11+V1
 - https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-OV-15+V1
 - https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-OV-12+V1
