@@ -8,6 +8,7 @@ Strony warte odwiedzenia:
 - https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/
 - https://www.nvidia.com/en-us/glossary/vision-language-models/
 - https://developer.nvidia.com/riva?sortBy=developer_learning_library%2Fsort%2Ffeatured_in.riva%3Adesc%2Ctitle%3Aasc
+- https://catalog.ngc.nvidia.com/orgs/nvidia/teams/tao/collections/tao_computervision
 
 
 Kursy:
